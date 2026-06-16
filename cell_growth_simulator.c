@@ -9,5 +9,5 @@ int main()
     scanf("%d", &days);
     printf("what is your current cell population ");
     scanf("%d", &cells);
-    printf("based on your input your number of cells are %d", cells * 2);
+    printf("based on your input your number of cells are %d", days * 2);
 }
